@@ -240,10 +240,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37b8555e6b711f9d",
+  "active": "1a35c845179dc639",
   "lastOpenFiles": [
-    "Monsters/Undeads/Zombies/Ash Zombie.md",
+    "NPCs/Friendly/Mirna Dendrar.md",
     "Locations/Thundertree.md",
+    "Monsters/Undeads/Zombies/Ash Zombie.md",
     "Favric.md",
     "Welcome.md",
     "Misc/Long Rest Checklist.md",
@@ -267,7 +268,6 @@
     "Monsters/Monstrosities/Owlbear.md",
     "Monsters/Beasts/Giant Spider.md",
     "Monsters/Humanoids/Orc.md",
-    "Monsters/Humanoids/Goblins/Bugbear.md",
     "Monsters/Undeads",
     "Monsters/Plants",
     "Monsters/Oozes",
