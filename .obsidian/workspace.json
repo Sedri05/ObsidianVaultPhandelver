@@ -11,12 +11,14 @@
             "id": "d627f536de30e275",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/Phandelver and Below The Shattered Obelisk.pdf"
+                "file": "Locations/Thundertree.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Phandelver and Below The Shattered Obelisk"
+              "icon": "lucide-file",
+              "title": "Thundertree"
             }
           }
         ]
@@ -224,27 +226,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b418179da5ad19f",
+  "active": "d627f536de30e275",
   "lastOpenFiles": [
+    "Monsters/Humanoids/Humans/Cultist.md",
+    "Locations/Neverwinter Wood.md",
+    "Locations/Phandalin/Barthen's Provisions.md",
+    "Triboar.md",
+    "Books/Phandelver and Below The Shattered Obelisk.pdf",
     "Books/Dungeon Master's Guide (2014).pdf",
     "Monsters/Undeads/Zombies/Zombie Commander.md",
     "Locations/Thundertree.md",
     "New Text Document.txt",
     "NPCs/Friendly/Mirna Dendrar.md",
     "Monsters/Undeads/Zombies/Ash Zombie.md",
-    "Favric.md",
+    "NPCs/Evil/Favric.md",
     "Welcome.md",
     "Misc/Long Rest Checklist.md",
-    "Shortsword of First Blood.md",
+    "Items/Shortsword of First Blood.md",
     "Monsters/Dragons/Venomfang.md",
-    "Neverwinter Wood.md",
     "NPCs/Friendly/Reidoth.md",
-    "Cultist.md",
-    "Cultist Fanatic.md",
+    "Monsters/Humanoids/Humans/Cultist Fanatic.md",
     "Monsters/Undeads/Zombies/Ash Zombie Commander.md",
     "Monsters/Undeads/Zombies/Zombie.md",
     "Locations/Phandalin/Phandalin.md",
-    "Triboar.md",
     "NPCs/Friendly/Toblen Stonehill.md",
     "NPCs/Friendly/Harbin Wester.md",
     "Monsters/Undeads/Skeletons/Skeleton.md",
@@ -260,8 +264,6 @@
     "Monsters/Giants",
     "Monsters/Fiends",
     "Monsters/Feys",
-    "Monsters/Elementals",
-    "Monsters/Dragons",
     "Images/Pasted image 20261026035814.png",
     "Images/Pasted image 20261003154712.png",
     "Untitled.canvas",
