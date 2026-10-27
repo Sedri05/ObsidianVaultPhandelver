@@ -1,0 +1,1 @@
+Castle taken over by the [[Cragmaw]] where [[King Grol]] resides.

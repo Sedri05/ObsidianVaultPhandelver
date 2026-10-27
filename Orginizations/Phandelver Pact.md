@@ -1,0 +1,6 @@
+Shared by [[Sildar Hallwinter]]
+```
+MORE THAN FIVE HUNDRED YEARS AGO, clans of dwarves and gnomes made an agreement known as the Phandelver Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. In addition to its mineral wealth, the mine contained great magical power. Human spellcast-ers allied themselves with dwarves and gnomes to channel and bind that energy into a great forge called the Forge of Spells, where magic items could be crafted. Times were good, and the nearby town of Phandalin prospered as well. But disaster struck when bandits swept through the North and laid waste to all in their path.
+A powerful bandit force reinforced by evil merce-nary wizards attacked Wave Echo Cave to seize its riches and magic treasures. Human wizards fought alongside their dwarf and gnome allies to defend the Forge of Spells, and the ensuing spell battle de-stroyed much of the cavern. Few survived the cave-ins and tremors, and knowledge of the location of Wave Echo Cave was lost.
+For centuries, rumors of buried riches have attracted treasure seekers and opportunists to the area around Phandalin, but no one has located the lost mine. In recent years, people resettled the area, and Phandalin is now a rough-and-tumble frontier town.
+```

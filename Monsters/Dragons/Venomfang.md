@@ -1,0 +1,82 @@
+**Race:** [Young Green Dragon](https://www.dndbeyond.com/monsters/17073-young-green-dragon?srsltid=AU7gw4WX3GnozRALM2OqvYg7-TcB0-VnNI6yQpkXAXNAy4P-p2DBGuPp)
+**Age:** Young
+**Gender:** Male
+**Occupation:** 
+**Association:**
+**Alignment:** Lawful evil
+**Location:** [[Thundertree#U7 Old Tower]]
+**Personality:**
+**About:**
+- 
+
+### Acquaintances
+- 
+# Information
+
+# Goals
+
+# Quests
+## Obtain the mysterious item
+- [ ] #Quest 
+If woken up and reasoned with he will tell the players to obtain a artifact from a nearby dungeon hidden deeply within the [[Neverwinter Wood]] withing 1 month. If the characters agree, he will let them live alive. If after 1 month he has not obtained the artifact he will attack the characters the next time they are in Phandalin.
+#TODO
+
+```statblock
+name: Young Green Dragon
+source: 5e SRD
+size: Large
+type: dragon
+subtype: ""
+alignment: lawful evil
+ac: 18
+hp: 136
+# hit_dice: 16d10 + 48
+speed: 40 ft., fly 80 ft., swim 40 ft.
+stats:
+  - 19
+  - 12
+  - 17
+  - 16
+  - 13
+  - 15
+saves:
+  - dexterity: 4
+  - constitution: 6
+  - wisdom: 4
+  - charisma: 5
+skillsaves:
+  - deception: 5
+  - perception: 7
+  - stealth: 4
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: poison
+condition_immunities: poisoned
+senses: blindsight 30 ft., darkvision 120 ft., passive Perception 17
+languages: Common, Draconic
+cr: "8"
+bestiary: true
+traits:
+  - name: Amphibious
+    desc: The dragon can breathe air and water.
+    attack_bonus: 0
+actions:
+  - name: Multiattack
+    desc: "The dragon makes three attacks: one with its bite and two with its claws."
+    attack_bonus: 0
+  - name: Bite
+    desc: "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage."
+    attack_bonus: 7
+    damage_dice: 2d10 + 2d6
+    damage_bonus: 4
+  - name: Claw
+    desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
+    attack_bonus: 7
+    damage_dice: 2d6
+    damage_bonus: 4
+  - name: Poison Breath (Recharge 5-6)
+    desc: The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+    attack_bonus: 0
+    damage_dice: 12d6
+
+```

@@ -1,0 +1,171 @@
+/* =========================
+   PRIMARY COLORS
+   ========================= */
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.orange {
+    color: orange;
+}
+
+.purple {
+    color: purple;
+}
+
+.pink {
+    color: pink;
+}
+
+.brown {
+    color: brown;
+}
+
+.black {
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+
+/* =========================
+   SECONDARY COLORS
+   ========================= */
+
+.cyan {
+    color: cyan;
+}
+
+.magenta {
+    color: magenta;
+}
+
+.lime {
+    color: lime;
+}
+
+.teal {
+    color: teal;
+}
+
+.navy {
+    color: navy;
+}
+
+.olive {
+    color: olive;
+}
+
+.maroon {
+    color: maroon;
+}
+
+.aqua {
+    color: aqua;
+}
+
+.silver {
+    color: silver;
+}
+
+.gray {
+    color: gray;
+}
+
+
+/* =========================
+   LIGHT COLORS
+   ========================= */
+
+.light-red {
+    color: lightcoral;
+}
+
+.light-blue {
+    color: lightblue;
+}
+
+.light-green {
+    color: lightgreen;
+}
+
+.light-yellow {
+    color: lightyellow;
+}
+
+.light-orange {
+    color: lightsalmon;
+}
+
+.light-purple {
+    color: thistle;
+}
+
+.light-pink {
+    color: lightpink;
+}
+
+.light-cyan {
+    color: lightcyan;
+}
+
+.light-gray {
+    color: lightgray;
+}
+
+
+/* =========================
+   DARK COLORS
+   ========================= */
+
+.dark-red {
+    color: darkred;
+}
+
+.dark-blue {
+    color: darkblue;
+}
+
+.dark-green {
+    color: darkgreen;
+}
+
+.dark-yellow {
+    color: goldenrod;
+}
+
+.dark-orange {
+    color: darkorange;
+}
+
+.dark-purple {
+    color: darkviolet;
+}
+
+.dark-pink {
+    color: deeppink;
+}
+
+.dark-cyan {
+    color: darkcyan;
+
+}
+
+.dark-gray {
+    color: darkgray;
+}

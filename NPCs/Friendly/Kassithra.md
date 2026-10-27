@@ -1,0 +1,1 @@
+Past lover of [[Zark]] untill she cheated on him with [[Murmond Rungorr]].

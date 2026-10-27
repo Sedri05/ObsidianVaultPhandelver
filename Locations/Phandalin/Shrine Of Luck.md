@@ -1,0 +1,1 @@
+[[Phandalin]]'s only temple, this small shrine is made of stones taken from nearby ruins. Its dedicated to Tymora, the goddess of luck and good fortune. This shrine is in the care of a scholarly acolyte names [[Sister Garaele]], a zealous young elf who despairs of ever ridding Phandalin of the [[Redbrands]]. 

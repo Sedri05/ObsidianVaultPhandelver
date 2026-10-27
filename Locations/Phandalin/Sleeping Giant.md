@@ -1,0 +1,1 @@
+This run-down tap house is a dirty, dangerous watering hole at the end of [[Phandalin]]'s main street. It is frequented by the [[Redbrands]] and operated by a surly orc named [[Greska]]. 
