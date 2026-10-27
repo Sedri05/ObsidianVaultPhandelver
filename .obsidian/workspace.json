@@ -11,14 +11,12 @@
             "id": "d627f536de30e275",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "pdf",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "Books/Phandelver and Below The Shattered Obelisk.pdf"
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "icon": "lucide-file-text",
+              "title": "Phandelver and Below The Shattered Obelisk"
             }
           }
         ]
@@ -99,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/Phandelver and Below The Shattered Obelisk.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d627f536de30e275",
+  "active": "3b418179da5ad19f",
   "lastOpenFiles": [
+    "Books/Dungeon Master's Guide (2014).pdf",
     "Monsters/Undeads/Zombies/Zombie Commander.md",
     "Locations/Thundertree.md",
     "New Text Document.txt",
