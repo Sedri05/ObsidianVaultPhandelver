@@ -11,14 +11,14 @@
             "id": "37b8555e6b711f9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Locations/Thundertree.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Thundertree"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           },
           {
@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thundertree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a35c845179dc639",
+  "active": "37b8555e6b711f9d",
   "lastOpenFiles": [
-    "NPCs/Friendly/Mirna Dendrar.md",
     "Locations/Thundertree.md",
+    "New Text Document.txt",
+    "NPCs/Friendly/Mirna Dendrar.md",
     "Monsters/Undeads/Zombies/Ash Zombie.md",
     "Favric.md",
     "Welcome.md",
@@ -267,7 +267,6 @@
     "Monsters/Fiends/Quasit.md",
     "Monsters/Monstrosities/Owlbear.md",
     "Monsters/Beasts/Giant Spider.md",
-    "Monsters/Humanoids/Orc.md",
     "Monsters/Undeads",
     "Monsters/Plants",
     "Monsters/Oozes",
@@ -277,7 +276,6 @@
     "Monsters/Feys",
     "Monsters/Elementals",
     "Monsters/Dragons",
-    "Monsters/Constructs",
     "Images/Pasted image 20261026035814.png",
     "Images/Pasted image 20261003154712.png",
     "Untitled.canvas",
