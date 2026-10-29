@@ -157,7 +157,7 @@ Feels unusually cold, **Detect Magic** reveals faint necromantic aura, matter in
 - 2 Healing Potions
 - Potion Of Climbing
 - Potion Of Growth
-- [[Gambler's Longsword]]
+- [[Gambler's Warhammer]]
 # R9 Guard Barrack
 ## Important
 - Can listen to the door.

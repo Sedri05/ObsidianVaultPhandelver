@@ -22,43 +22,43 @@ A wooden sign shaped like a shield and painted with a blue lion hangs above the 
 - **Local situation:** The shop's supply and security can change in response to events in Phandalin and along nearby roads.
 
 ## Simple Weapons
-| Item | Price | Stock | Notes |
-|---|---:|---:|---|
-| Club | 1 sp | 4 | |
-| Dagger | 2 gp | 4 | |
-| Greatclub | 2 sp | 2 | |
-| Handaxe | 5 gp | 3 | |
-| Javelin | 5 sp | 6 | |
-| Light hammer | 2 gp | 2 | |
-| Mace | 5 gp | 2 | |
-| Quarterstaff | 2 sp | 3 | |
-| Sickle | 1 gp | 2 | |
-| Spear | 1 gp | 4 | |
-| Light crossbow | 25 gp | 2 | |
-| Dart, each | 5 cp | 20 | |
-| Shortbow | 25 gp | 2 | |
-| Sling | 1 sp | 2 | |
+| Item           | Price | Stock | Notes |
+| -------------- | ----: | ----: | ----- |
+| Club           |  1 sp |     4 |       |
+| Dagger         |  2 gp |     4 |       |
+| Greatclub      |  2 sp |     2 |       |
+| Handaxe        |  5 gp |     3 |       |
+| Javelin        |  5 sp |     6 |       |
+| Light hammer   |  2 gp |     2 |       |
+| Mace           |  5 gp |     2 |       |
+| Quarterstaff   |  2 sp |     3 |       |
+| Sickle         |  1 gp |     2 |       |
+| Spear          |  1 gp |     4 |       |
+| Light crossbow | 25 gp |     2 |       |
+| Dart, each     |  5 cp |    20 |       |
+| Shortbow       | 25 gp |     2 |       |
+| Sling          |  1 sp |     2 |       |
 ## Martial Melee Weapons
-| Item | Price | Stock | Notes |
-|---|---:|---:|---|
-| Battleaxe | 10 gp | 2 | |
-| Flail | 10 gp | 1 | Limited |
-| Glaive | 20 gp | 1 | Limited |
-| Greataxe | 30 gp | 1 | Limited |
-| Greatsword | 50 gp | 1 | Limited |
-| Halberd | 20 gp | 1 | Limited |
-| Lance | 10 gp | 1 | |
-| Longsword | 15 gp | 3 | |
-| Maul | 10 gp | 1 | |
-| Morningstar | 15 gp | 1 | |
-| Pike | 5 gp | 2 | |
-| Rapier | 25 gp | 1 | Limited |
-| Scimitar | 25 gp | 1 | Limited |
-| Shortsword | 10 gp | 3 | |
-| Trident | 5 gp | 1 | |
-| War pick | 5 gp | 1 | |
-| Warhammer | 15 gp | 2 | |
-| Whip | 2 gp | 1 | |
+| Item        | Price | Stock | Notes   |
+| ----------- | ----: | ----: | ------- |
+| Battleaxe   | 10 gp |     2 |         |
+| Flail       | 10 gp |     1 | Limited |
+| Glaive      | 20 gp |     1 | Limited |
+| Greataxe    | 30 gp |     1 | Limited |
+| Greatsword  | 50 gp |     1 | Limited |
+| Halberd     | 20 gp |     1 | Limited |
+| Lance       | 10 gp |     1 |         |
+| Longsword   | 15 gp |     3 |         |
+| Maul        | 10 gp |     1 |         |
+| Morningstar | 15 gp |     1 |         |
+| Pike        |  5 gp |     2 |         |
+| Rapier      | 25 gp |     1 | Limited |
+| Scimitar    | 25 gp |     1 | Limited |
+| Shortsword  | 10 gp |     3 |         |
+| Trident     |  5 gp |     1 |         |
+| War pick    |  5 gp |     1 |         |
+| Warhammer   | 15 gp |     2 |         |
+| Whip        |  2 gp |     1 |         |
 ## Ranged Weapons and Ammunition
 | Item | Price | Stock | Notes |
 |---|---:|---:|---|

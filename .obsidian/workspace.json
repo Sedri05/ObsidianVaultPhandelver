@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thundertree.md",
+                "file": "NPCs/Friendly/Toblen Stonehill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thundertree"
+              "title": "Toblen Stonehill"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#quest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thundertree.md",
+                "file": "NPCs/Friendly/Toblen Stonehill.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,35 +228,35 @@
   },
   "active": "d627f536de30e275",
   "lastOpenFiles": [
+    "Locations/Phandalin/Stonehill Inn.md",
+    "Locations/Phandalin/Lionshield Coster.md",
+    "NPCs/Friendly/Linene Graywind.md",
+    "NPCs/Friendly/Harbin Wester.md",
+    "NPCs/Friendly/Reidoth.md",
+    "NPCs/Friendly/Sildar Hallwinter.md",
+    "NPCs/Friendly/Mirna Dendrar.md",
+    "NPCs/Friendly/Sister Garaele.md",
+    "NPCs/Friendly/Daran Edermath.md",
+    "Sessions/Session 3.md",
+    "Misc/Long Rest Checklist.md",
+    "Welcome.md",
+    "Locations/Triboar Trail.md",
+    "Monsters/Monstrosities/Owlbear.md",
+    "Locations/Thundertree.md",
+    "Monsters/Undeads/Zombies/Ash Zombie Commander.md",
+    "Monsters/Undeads/Zombies/Zombie Commander.md",
     "Monsters/Humanoids/Humans/Cultist.md",
-    "Locations/Neverwinter Wood.md",
-    "Locations/Phandalin/Barthen's Provisions.md",
-    "Triboar.md",
+    "Monsters/Humanoids/Humans/Cultist Fanatic.md",
+    "Monsters/Plants/Needle Blight.md",
+    "Monsters/Plants/Twig Blight.md",
+    "Monsters/Dragons/Venomfang.md",
+    "Items/Helmet of Smiting.md",
+    "Items/Shortsword of First Blood.md",
+    "Items/Gauntlets of the Underdog.md",
+    "Items/Bracers of Archery.md",
     "Books/Phandelver and Below The Shattered Obelisk.pdf",
     "Books/Dungeon Master's Guide (2014).pdf",
-    "Monsters/Undeads/Zombies/Zombie Commander.md",
-    "Locations/Thundertree.md",
     "New Text Document.txt",
-    "NPCs/Friendly/Mirna Dendrar.md",
-    "Monsters/Undeads/Zombies/Ash Zombie.md",
-    "NPCs/Evil/Favric.md",
-    "Welcome.md",
-    "Misc/Long Rest Checklist.md",
-    "Items/Shortsword of First Blood.md",
-    "Monsters/Dragons/Venomfang.md",
-    "NPCs/Friendly/Reidoth.md",
-    "Monsters/Humanoids/Humans/Cultist Fanatic.md",
-    "Monsters/Undeads/Zombies/Ash Zombie Commander.md",
-    "Monsters/Undeads/Zombies/Zombie.md",
-    "Locations/Phandalin/Phandalin.md",
-    "NPCs/Friendly/Toblen Stonehill.md",
-    "NPCs/Friendly/Harbin Wester.md",
-    "Monsters/Undeads/Skeletons/Skeleton.md",
-    "Monsters/Beasts/Wolf.md",
-    "Monsters/Plants/Twig Blight.md",
-    "Monsters/Fiends/Quasit.md",
-    "Monsters/Monstrosities/Owlbear.md",
-    "Monsters/Beasts/Giant Spider.md",
     "Monsters/Undeads",
     "Monsters/Plants",
     "Monsters/Oozes",

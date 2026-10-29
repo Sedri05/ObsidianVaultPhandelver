@@ -1,12 +1,5 @@
 ```table-of-contents
 ```
-Town
-[[Reidoth]]
-
-[[Twig Blight]]
-[[Needle Blight]]
-[[Ash Zombie]]
-[[Giant Spider]]
 # Map
 ![[Pasted image 20261026035814.png]]
 # General Features
