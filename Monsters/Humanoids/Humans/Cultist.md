@@ -8,9 +8,9 @@ size: Medium
 type: humanoid
 subtype: any race
 alignment: any non-good alignment
-ac: 12
-hp: 9
-hit_dice: 2d8
+ac: 13
+hp: 15
+hit_dice: 2d8 + 4
 speed: 30 ft.
 stats:
   - 11

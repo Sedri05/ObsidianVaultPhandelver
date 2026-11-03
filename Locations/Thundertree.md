@@ -75,7 +75,7 @@ On round 3 the Needle Blights follow.
 At an intersection near the middle of the village, a narrow lane winds up the steep hillside to the north. Directly to the south is a ruined building that might've been a store or a workshop. Webs stretch across the lane from the building to the trees on the north side of the road.
 ```
 ## Features
-- Webs are difficult terrain, **DC8 Athletics** or gain the restrained condition, Action to repeat check to break free or cut down the webs.
+- Webs are difficult terrain, **DC8 Strength Save** or gain the restrained condition, Action to repeat check to break free or cut down the webs.
 - Webs: 10 AC, 10HP, weak to fire.
 ## Development
 When the characters interact with the webs the spiders attack. **DC17 Perception** to avoid being surprised.

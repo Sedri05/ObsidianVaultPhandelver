@@ -19,4 +19,4 @@ Knows the cultists serve "[[Venomfang|The Green Lord]]", she does not know who t
 # Quests
 ## Obtain Reidoth Staff
 - [ ] #Quest 
-Her staff has been taken by Dragon Cultists a fortnight ago. She asks the party to return it to her. She knows Cultists, who server The Green Lord, inhabit a house on the other side of town and says that the cultist likely know where the staff is. The reward for returning the staff is a bag of holding.
+Her staff has been taken by Dragon Cultists a fortnight ago. She asks the party to return it to her. She knows Cultists, who serve The Green Lord, inhabit a house on the other side of town and says that the cultist likely know where the staff is. The reward for returning the staff is a bag of holding.

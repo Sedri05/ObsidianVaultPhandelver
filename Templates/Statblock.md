@@ -56,4 +56,7 @@ reactions:
     desc: 
   - name: 
     desc: 
+lair_actions:
+  - name: 
+    desc:
 ```

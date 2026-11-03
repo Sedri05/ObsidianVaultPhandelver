@@ -1,4 +1,4 @@
-
+15
 
 ```statblock
 name: Cult Fanatic
@@ -7,9 +7,9 @@ size: Medium
 type: humanoid
 subtype: any race
 alignment: any non-good alignment
-ac: 13
-hp: 22
-hit_dice: 6d8 + -5
+ac: 16
+hp: 26
+hit_dice: 6d8 + -2
 speed: 30 ft.
 stats:
   - 11
