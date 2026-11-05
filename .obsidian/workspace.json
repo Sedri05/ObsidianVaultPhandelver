@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters/Elementals/Minor Earth Elemental.md",
+                "file": "Locations/Cragmaw/Cragmaw Castle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minor Earth Elemental"
+              "title": "Cragmaw Castle"
             }
           }
         ]
@@ -147,23 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monsters/Elementals/Minor Earth Elemental.md",
+                "file": "Locations/Overgrown Druid Sanctuary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
-            }
-          },
-          {
-            "id": "52548fc74103b865",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
             }
           },
           {
@@ -189,9 +179,35 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "66563c091a753bb0",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
+      },
+      {
+        "id": "5b291af23766bccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df300e53798cc4a9",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,32 +228,33 @@
   },
   "active": "bf2eefbf1c9bceab",
   "lastOpenFiles": [
-    "Locations/Unnamed dungeon.md",
+    "Monsters/Humanoids/Goblins/Goblin Boss.md",
+    "Locations/Cragmaw/Cragmaw Castle.md",
+    "Pasted image 20261105163718.png",
+    "Monsters/Humanoids/Goblins/Bugbear.md",
+    "Monsters/Humanoids/Goblins/Goblin.md",
+    "Locations/Overgrown Druid Sanctuary.md",
+    "Items/Gauntlets of Iron Grip.md",
+    "Items/Gauntlets of the Underdog.md",
+    "Items/Vial of Boiling Blood.md",
+    "Shadow.md",
+    "Monsters/Elementals/Ancient Mud Mephit.md",
+    "Monsters/Elementals/Young Mud Mephit.md",
     "Monsters/Elementals/Minor Earth Elemental.md",
-    "Locations/Thundertree.md",
-    "Misc/Random Shite.md",
+    "Mimic.md",
+    "Monsters/Plants/Awakened Shrub.md",
+    "Monsters/Plants/Needle Blight.md",
+    "Monsters/Plants/Twig Blight.md",
     "Monsters/Beasts/Giant Spider.md",
+    "Locations/Thundertree.md",
+    "Simple Toxin.md",
+    "Misc/Random Shite.md",
     "NPCs/Neutral/Verdant Protector.md",
     "Monsters/Undeads/Zombies/Ash Zombie Commander.md",
     "Monsters/Undeads/Zombies/Zombie Commander.md",
     "Shambling Mound.md",
-    "Monsters/Plants/Twig Blight.md",
     "Templates/Statblock.md",
     "Templates/Untitled.md",
-    "Verdant Heart.md",
-    "Monsters/Dragons/Venomfang.md",
-    "Locations/Neverwinter Wood.md",
-    "Locations/Kryptgarden Forest.md",
-    "Monsters/Undeads/Zombies/Zombie.md",
-    "Monsters/Undeads/Agatha.md",
-    "Monsters/Plants/Needle Blight.md",
-    "Monsters/Humanoids/Humans/Cultist Fanatic.md",
-    "Monsters/Humanoids/Humans/Cultist.md",
-    "NPCs/Friendly/Toblen Stonehill.md",
-    "Locations/Phandalin/Stonehill Inn.md",
-    "Items/Helmet of Smiting.md",
-    "NPCs/Friendly/Reidoth.md",
-    "Monsters/Undeads/Zombies/Ash Zombie.md",
     "Books/Phandelver and Below The Shattered Obelisk.pdf",
     "Books/Dungeon Master's Guide (2014).pdf",
     "New Text Document.txt",

@@ -1,0 +1,41 @@
+
+
+```statblock
+name: Awakened Shrub
+source: 5e SRD
+size: Small
+type: plant
+subtype: ""
+alignment: unaligned
+ac: 9
+hp: 10
+hit_dice: 3d6 + -1
+speed: 20 ft.
+stats:
+  - 3
+  - 8
+  - 11
+  - 10
+  - 10
+  - 6
+damage_vulnerabilities: fire
+damage_resistances: piercing
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 10
+languages: one language known by its creator
+cr: "0"
+bestiary: true
+traits:
+  - name: False Appearance
+    desc: While the shrub remains motionless, it is indistinguishable from a normal shrub.
+    attack_bonus: 0
+actions:
+  - name: Rake
+    desc: "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 — 1) slashing damage."
+    attack_bonus: 1
+    damage_dice: 1d4
+    damage_bonus: -1
+
+```
+
