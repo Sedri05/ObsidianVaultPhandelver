@@ -34,27 +34,42 @@ Supreme Healing  | 60     | 10d4 + 20
 - We will not be keeping track of basic ammunition.
 ## 10. Spell Components
 - You do not need spell components unless mentioned otherwise. 
-- Exceptions are: Revivify, Resurrection, True Resurrection, ... Any spell may be added at any time.
+- Exceptions are: Revivify, Resurrection, True Resurrection, ... 
+- Any spell may be added at any time.
 
 
 
 # Character Creation Rules
-## 1. Standard Point Array
-- We will be using the standard point array for **ability scores**.
-- Pick each number once and assign it to a ability score (15-14-13-12-10-8)
+## 1. Ability Scores
+- We will be using a **custom** point array for **ability scores**.
+- Pick each number once and assign it to a ability score **(16-15-14-12-10-7)**
 ## 2. No evil alignment
-- No characters with an **evil alignment**, i don't think i am equipped to deal with those. 
+- No characters with an **evil alignment**. 
 ## 3. Races
-- No **monstrous** races.
-- No **flying** races.
-## 4. Level 1 feat
+- If your chosen race gives you a +2/+1 or similar bonus to fixed ability scores, you are instead free to allocate those to any ability score you want. 
+## 4. Feats
 - You can pick a feat when you normally would get an ASI.
-- You may pick any **feat at level 1**. Feels like it would make low level play more fun.
+- You may pick a **feat at level 1** from the options below.
+	- Alert
+	- Actor
+	- Athlete
+	- Chef
+	- Dungeon Delver
+	- Durable
+	- Healer
+	- Inspiring Leader
+	- Keen Mind
+	- Mobile
+	- Observant
+	- Poisoner
+	- Prodigy
+	- Skill Expert
+	- Skilled
+	- Spell Sniper
+	- Weapon Master
 ## 5. Tasha's Cauldron of Everything
 - You are encouraged to use the **optional class features** from Tasha's Cauldron of Everything.
 ## 6. Background
-- Create some kind of link to Gundren Rockseeker
-- Optionally create a link to Phandalin.
-- Have a reason why you would be in Neverwinter at the start of the adventure.
+- Custom backgrounds are allowed.
 ## 7. Avoid AI
 - Just avoid using AI for writing character backstory or art. It's just kind of meh.
