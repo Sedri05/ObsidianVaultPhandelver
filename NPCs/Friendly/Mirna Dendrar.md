@@ -20,5 +20,5 @@ Knows very little about the hideout. Knows the boss is a wizard and has `Tall, f
 
 # Quests
 ## Mirna's Heirloom
-- [ ] #Quest
+- [x] #Quest
 When saves she can't immediately offer a reward but tells the characters of a valuable heirloom. When she was young she fled from her hometown of [[Thundertree]] after undead overran the place. Her family had an herb and alchemy shop, inside which is an emerald necklace in a case hidden beneath a section of the store shelves. She never dared to return to retrieve it. The shop was in the southeast part of Thundertree.

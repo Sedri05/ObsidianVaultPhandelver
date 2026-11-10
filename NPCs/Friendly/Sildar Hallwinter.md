@@ -35,7 +35,7 @@ He wants to see Phandalin thrive, therefor he wants to find the lost mine of [[W
 Captured and held hostage by the [[Cragmaw]] Goblin Boss [[Yeemik]]. At this point he has 1HP.
 If saved he will ask the characters to escort him to [[Phandalin]] for the price of 50gp. This will be paid the day after the characters arrive there.
 ### Finding Cragmaw Castle
-- [ ] #ChapterTwo #Quest
+- [x] #ChapterTwo #Quest
 After recovering he establishes himself at the [[Townmaster's Hall]] as an agent of the [[Lords' Alliance]]. There he will post a notice or encourage the party to find [[Cragmaw Castle]] and defeat or drive off the band's leader. For this he suggests searching the grounds along the [[Triboar Trail]] for more raiding parties. If completed he pays the party 500gp.  
 
 ```statblock
