@@ -5,9 +5,13 @@
 You enter a room set up with 3 large tables, 1 of which has been thrown on its side and notice an immediate rotting smell. Plates with rotten food sit on the tables. There is a reading nook in the southwest corner with a couple couches next to it and some shelves on the opposing side of the room.
 ```
 ## Features
-
+- Book detail various plants and phenomena in nature.
+- (Encyclopedia)
+## Development
+- **DC12 Perception** to avoid being surprised.
 ## Enemies
-- [[Vine Blight]]
+- 3 [[Vine Blight]]
+- 2 [[Needle Blight]]
 # Single Chest Room
 ```
 A single chest stands in the middle of this room. Besides the tiled floor and some rubble it is otherwise empty.
@@ -23,8 +27,14 @@ The chest contains.
 - 2 Potions of healing.
 - Scroll of Earthbind
 # Kitchen
-You enter a room in the shape of an L, a large barrel stands next to the entrance and 
-
+```
+You enter an L shaped room that smells largely of burned charcoal. A large barrel stands near the entrance with a couple shelves around it. The northeast side of the room has various table tops on which are a multitude of pots, pans and other cooking utensils. Against the south wall stands a large oven that hasn't been lit in ages with a cauldron next to it. 
+```
+## Development
+- **DC12 Perception** to avoid being surprised.
+## Enemies
+- 3 [[Needle Blight]]
+- 2 [[Vine Blight]]
 # Apothecary/Nursery
 ```
 When you enter the room you pick up the scent of various different herbs and spices. This room is split in 2 by a set of curtains. The shelves in this southern are filled with glassware of all sizes, various herbs and ingredients indicating this was some kind of apothecary. Most of the labels have largely faded. The eastern part is filled with beds that have old and worn privacy curtains and was likely being used as a nursery. 

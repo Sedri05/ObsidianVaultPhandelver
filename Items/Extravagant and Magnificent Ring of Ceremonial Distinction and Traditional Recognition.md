@@ -2,7 +2,7 @@
 **Type:** Ring
 **Rarity:** Rare
 **Attunement:** No
-**Description:** A small golden ring with a big letter `I` on it.
+**Description:** A copper ring with a big letter `I` on it.
 **Bonus:**
 **Charges:**
 # Abilities

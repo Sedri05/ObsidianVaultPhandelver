@@ -18,8 +18,7 @@
 # Quests
 ## Obtain the mysterious item
 - [ ] #Quest 
-If woken up and reasoned with he will tell the players to obtain a artifact from a nearby dungeon hidden deeply within the [[Neverwinter Wood]] withing 1 month. If the characters agree, he will let them live alive. If after 1 month he has not obtained the artifact he will attack the characters the next time they are in Phandalin.
-#TODO
+If woken up and reasoned with he will tell the players to obtain a artifact from a nearby dungeon hidden deeply within the [[Neverwinter Wood]] withing 1 month. If the characters agree, he will let them live alive. If after 1 month he has not obtained the artifact he will attack the characters the next time they are in Phandalin. The artifact is the [[Verdant Heart]].
 
 ```statblock
 name: Young Green Dragon

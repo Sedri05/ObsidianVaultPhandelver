@@ -14,6 +14,9 @@ condition_immunities: blinded, deafened
 senses: blindsight 60 ft. (blind beyond this radius), passive Perception 9
 languages: understands Common but can't speak
 cr: 1/4
+traits:
+  - name: False Appearance
+    desc: While the blight remains motionless, it is indistinguishable from a dead shrub.
 actions:
   - name: Claws
     desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 2) piercing damage."
