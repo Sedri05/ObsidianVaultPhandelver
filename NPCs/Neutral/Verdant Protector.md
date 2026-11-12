@@ -30,6 +30,8 @@ languages: ""
 cr: "5"
 bestiary: true
 traits:
+  - name: Legendary Resistance (1/day)
+    desc: "If the verdant portector fails a saving throw, it can choose to succeed instead."
   - name: Lightning Absorption
     desc: Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 actions:

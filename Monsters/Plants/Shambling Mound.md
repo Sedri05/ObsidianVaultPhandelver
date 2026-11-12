@@ -1,6 +1,4 @@
 
-
-
 ```statblock
 name: Shambling Mound
 source: 5e SRD
@@ -47,5 +45,3 @@ actions:
     attack_bonus: 0
 
 ```
-
-

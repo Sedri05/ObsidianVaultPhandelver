@@ -1,6 +1,4 @@
 
-
-
 ```statblock
 layout: Basic 5e Layout
 name: Needle Blight
@@ -9,7 +7,7 @@ type: plant
 alignment: neutral evil
 ac: 14 (natural armor)
 hp: 18
-hit_dice: 3d8 + 2
+hit_dice: 3d8 + 5
 speed: 30 ft.
 stats: [14, 12, 13, 4, 8, 3]
 condition_immunities: blinded, deafened

@@ -1,5 +1,4 @@
 
-
 ```statblock
 name: Shadow
 source: 5e SRD
@@ -42,4 +41,3 @@ actions:
       If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
 
 ```
-

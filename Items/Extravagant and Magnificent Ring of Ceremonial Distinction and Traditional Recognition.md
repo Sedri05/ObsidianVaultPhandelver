@@ -6,4 +6,4 @@
 **Bonus:**
 **Charges:**
 # Abilities
-Allows you to ritually cast Identify without components.
+Allows you to ritually cast Identify without components on objects only.

@@ -6,9 +6,9 @@ name: Ancient Mud Mephit
 size: Small
 type: Elemental
 alignment: Neutral Evil
-ac: 11
-hp: 17
-hit_dice: 3d6 + 3
+ac: 12
+hp: 22
+hit_dice: 5d6 + 5
 speed: 30 ft., fly 30 ft.
 stats: [8, 12, 12, 9, 11, 7]
 damage_immunities: poison
@@ -22,8 +22,8 @@ traits:
   - name: False Appearance
     desc: "While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud."
 actions:
-  - name: Punch
-    desc: "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage."
+  - name: Claws
+    desc: "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6 + 1) bludgeoning damage."
   - name: Mud Fling
     desc: "Ranged Weapon Attack: +3 to hit, range 45 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
   - name: Mud Breath (Recharge 5-6)
