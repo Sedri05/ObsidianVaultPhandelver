@@ -11,10 +11,14 @@
             "id": "bf2eefbf1c9bceab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Druid Sanctuary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Druid Sanctuary"
             }
           }
         ]
@@ -224,6 +228,13 @@
   },
   "active": "bf2eefbf1c9bceab",
   "lastOpenFiles": [
+    "Players/Zark.md",
+    "Locations/Druid Sanctuary.md",
+    "Items/Boots of Elvenkind.md",
+    "Items/Dagger of Venom.md",
+    "Players/Manny Fling.md",
+    "Items/Consumable",
+    "Players/Azariah Fal.md",
     "Locations/Phandalin/Phandalin.md",
     "Monsters/Dragons/Venomfang.md",
     "Items/Extravagant and Magnificent Ring of Ceremonial Distinction and Traditional Recognition.md",
@@ -232,7 +243,6 @@
     "Items/Unbendable Spoon.md",
     "Items/Ring of Detect Magic Item.md",
     "Items/Verdant Heart.md",
-    "Locations/Druid Sanctuary.md",
     "Monsters/Plants/Twig Blight.md",
     "Monsters/Plants/Needle Blight.md",
     "Monsters/Plants/Shambling Mound.md",
@@ -245,11 +255,6 @@
     "Monsters/Elementals/Minor Earth Elemental.md",
     "NPCs/Neutral/Verdant Protector.md",
     "Monsters/Undeads/Agatha.md",
-    "Monsters/Beasts/Giant Spider.md",
-    "Monsters/Beasts/Giant Poisonous Snake.md",
-    "Monsters/Aberrations/Spectator.md",
-    "Monsters/Humanoids/Orc.md",
-    "Monsters/Monstrosities/Mimic.md",
     "Images/Pasted image 20261105163718.png",
     "Books/Phandelver and Below The Shattered Obelisk.pdf",
     "Books/Dungeon Master's Guide (2014).pdf",
@@ -260,7 +265,6 @@
     "Monsters/Monstrosities",
     "Monsters/Giants",
     "Monsters/Fiends",
-    "Monsters/Feys",
     "Images/Pasted image 20261026035814.png",
     "Images/Pasted image 20261003154712.png",
     "Untitled.canvas",

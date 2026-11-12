@@ -17,3 +17,11 @@
 # Goals
 
 # Quests
+
+# Items
+- [[Vial of Boiling Blood]]
+- [[Boots of Striding and Springing]]
+- [[Gambler's Warhammer]]
+- [[Ring of Stored Life]]
+## Planned items
+- [[Gauntlets of Iron Grip]]

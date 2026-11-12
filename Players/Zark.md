@@ -22,3 +22,11 @@
 # Goals
 Become Rich.
 # Quests
+
+# Items
+- [[Bracers of Archery]]
+- +1 Longbow
+- [[Dagger of Venom]]
+- [[Boots of Elvenkind]]
+## Planned Items
+- [[Ring of Roguish Tricks]]

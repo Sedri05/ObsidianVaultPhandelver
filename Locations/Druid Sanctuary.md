@@ -59,6 +59,7 @@ When you enter the room you see a desk that is a mess of old parchment and books
 - The emerald is to finish the Vault puzzle and must be placed on the empty socket.
 - A note on the desk reads `The Ruby is a red herring.`
 - (Optional) A button on one of the undersides of the bookshelves opens a secret door. **DC15 Investigation** to discover.
+	- This hallway has an arrow trap triggerd by a pressure plate. **DC15 Perception** to spot, **DC12 Dexterity** save to take half damage, **2d8 Piercing** damage.
 # Natural Hot Springs
 ```
 When you enter this room you hear the sound of running water. This large natural cavern has a small stone step up to various pools of water of which steam is rising. The hot water streaming in is clear and there is substancially less greenery in this room then the others. These pools are some sort of natural hot spring. Various crystals in the walls shine colorful light inside the whole cave. A green ball like creature with 4 eye stalks hovers above the pools.

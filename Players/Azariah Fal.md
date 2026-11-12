@@ -11,9 +11,15 @@
 - 
 
 ### Acquaintances
-- [[Falorin Glintoria]] | Celestial Guide
+- [[Falorin Glintoria]] | Celestial Guide / God
 # Information
 
 # Goals
 
 # Quests
+
+# Items
+- [[Ring of Protection]]
+- [[Ring of Small Mercies]]
+- [[Iron Guard Greatsword]]
+- [[Helmet of Smiting]]
