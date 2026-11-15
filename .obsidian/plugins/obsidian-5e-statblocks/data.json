@@ -368,7 +368,7 @@
             "mythic_description",
             "mythic_actions"
           ],
-          "heading": "Mythic Actions",
+          "heading": "Battlefield Actions",
           "nested": [
             {
               "type": "text",
