@@ -41,13 +41,13 @@ You enter an L shaped room that smells largely of burned charcoal. A large barre
 When you enter the room you pick up the scent of various different herbs and spices. This room is split in 2 by a set of curtains. The shelves in this southern are filled with glassware of all sizes, various herbs and ingredients indicating this was some kind of apothecary. Most of the labels have largely faded. The eastern part is filled with beds that have old and worn privacy curtains and was likely being used as a nursery. 
 ```
 ## Features
-- **DC15 Investigation** or **DC12 Nature** to identify a potion.
+- **DC15 Investigation** or **DC12 Nature/Medicin** to identify a potion.
 	1. Potion of Hill Giant Strength
-	2. Potion of Animal Friendship
-	3. Potion of Poison Resistance
-	4. Antitoxin
+	2. Potion of Greater Healing
+	3. Potion of Speed
+	4. Potion of Poison Resistance
 	5. Potion of Heroism
-	6. Potion of Greater Healing
+	6. Potion of Animal Friendship
 ## Development
 - Shadows stand a the far end of the nursery part of the room. They are hidden until a character is close enough to attack or they enter bright light.
 ## Enemies

@@ -1,0 +1,1 @@
+Offers magical items for "cheap" prices. These items are often cursed or useless

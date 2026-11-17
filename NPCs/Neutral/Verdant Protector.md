@@ -39,7 +39,7 @@ actions:
   - name: Multiattack
     desc: The Verdant Protector makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the Verdant Protector uses its Engulf on it.
   - name: Slam
-    desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage."
+    desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 4) bludgeoning damage."
   - name: Engulf
     desc: The Verdant Protector engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 lair_actions:

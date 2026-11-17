@@ -23,18 +23,18 @@ Supreme Healing  | 60     | 10d4 + 20
 ## 5. Hit Points
 - When gain a **level** take the highest value on your **Hit Die**. That is the amount of maximum **Hit Points** you gain for that level.
 - When you roll one or more **Hit Dice** during a short rest, any die result lower than your **Constitution** modifier is treated as equal to your **Constitution** modifier.
-## 6. Bonus Action Spells
-- Leveled **bonus** action spell can be cast on the same turn as a normal leveled spell.
+## 6. Spells
+- You may cast as many spells on one turn as you have actions, bonus actions or reactions.
 ## 7. Exhaustion
 - We will be using the **2024** (5.5e) rules for **exhaustion**.
 ## 8. Grappling
 - We will use the **2024** (5.5e) rule for grappling.
-- DC of 8 + STR + prof.
+- DC of 8 + STR + proficiency.
 ## 9. Ammunition
 - We will not be keeping track of basic ammunition.
 ## 10. Spell Components
 - You do not need spell components unless mentioned otherwise. 
-- Exceptions are: Revivify, Resurrection, True Resurrection, ... 
+- Exceptions are: Revivify, Raise Dead, Resurrection, True Resurrection, ... 
 - Any spell may be added at any time.
 
 
@@ -49,7 +49,7 @@ Supreme Healing  | 60     | 10d4 + 20
 - If your chosen race gives you a +2/+1 or similar bonus to fixed ability scores, you are instead free to allocate those to any ability score you want. 
 ## 4. Feats
 - You can pick a feat when you normally would get an ASI.
-- You may pick a **feat at level 1** from the options below.
+- You may pick a **feat at level 1** from the options below:
 	- Alert
 	- Actor
 	- Athlete

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters/Undeads/Shadow.md",
+                "file": "NPCs/Neutral/Verdant Protector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shadow"
+              "title": "Verdant Protector"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Campaign"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,8 +240,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a35c845179dc639",
+  "active": "bf2eefbf1c9bceab",
   "lastOpenFiles": [
+    "Social Encounters/Wandering Trader.md",
+    "Social Encounters/The Unbreakable Dimensional Door.md",
+    "Social Encounters",
+    "Locations/Druid Sanctuary.md",
+    "Rules.md",
+    "Monsters/Plants/Vine Blight.md",
+    "Monsters/Elementals/Young Mud Mephit.md",
     "Monsters/Undeads/Shadow.md",
     "Misc/Campaign.md",
     "Monsters/Undeads/Ghost.md",
@@ -257,18 +263,12 @@
     "Monsters/Undeads/Zombies/Ash Zombie Commander.md",
     "Monsters/Undeads/Zombies/Ash Zombie.md",
     "Monsters/Plants/Needle Blight.md",
-    "Monsters/Plants/Vine Blight.md",
     "Monsters/Plants/Twig Blight.md",
     "Monsters/Plants/Shambling Mound.md",
-    "Locations/Druid Sanctuary.md",
-    "Rules.md",
     "Misc/Random Shite.md",
     "Misc/Long Rest Checklist.md",
     "NPCs/Neutral/Verdant Protector.md",
     "NPCs/Neutral/Fog Eye.md",
-    "Monsters/Dragons/Venomfang.md",
-    "Monsters/Aberrations/Spectator.md",
-    "Monsters/Elementals/Minor Earth Elemental.md",
     "Items/Consumable",
     "Images/Pasted image 20261105163718.png",
     "Books/Phandelver and Below The Shattered Obelisk.pdf",
@@ -279,7 +279,6 @@
     "Monsters/Oozes",
     "Monsters/Monstrosities",
     "Monsters/Giants",
-    "Monsters/Fiends",
     "Images/Pasted image 20261026035814.png",
     "Images/Pasted image 20261003154712.png",
     "Untitled.canvas",

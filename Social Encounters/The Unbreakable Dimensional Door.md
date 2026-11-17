@@ -1,0 +1,5 @@
+This door seems to appear in front of people at random. It is not locked and can be freely opened. The door does nothing and will remain stationary, usually leaving after it is left unobserved for 1 hour by any intelligent being, or recording device provided it wants to. The door is omniscient regarding its own observation status and location, knowing whether it is currently being observed, has been observed, or will be observed. Any attempt to destroy or move the door results in failure. The wish spell is the only way to move the door against the doors will but it can't destroy it.
+
+Numerous myths, fables, and rumours surround this door, recounting various tales about its origins and history. These include stories of attempts to destroy or relocate it, theories about how it was constructed, and speculation about who created it.
+
+The king of an ancient kingdom once claimed it saw the door open by itself. If true, this is the only time in recorded history the door has done other then move.
