@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Neutral/Verdant Protector.md",
+                "file": "Locations/Wave Echo Cave/Wave Echo Cave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verdant Protector"
+              "title": "Wave Echo Cave"
             }
           },
           {
-            "id": "65ffd5cfd6cba3c0",
+            "id": "c36523050ef8f23c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Campaign.md",
+                "file": "Items/Cloak of Protection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign"
+              "title": "Cloak of Protection"
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dwarf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.833251953125
+    "width": 509.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,16 +240,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf2eefbf1c9bceab",
+  "active": "13f9c8b9bc2a863a",
   "lastOpenFiles": [
+    "Items/Cloak of Protection.md",
+    "Untitled.md",
+    "Locations/Wave Echo Cave/Wave Echo Cave.md",
+    "Locations/Druid Sanctuary.md",
+    "Monsters/Oozes/Ochre Jelly.md",
+    "Rules.md",
+    "NPCs/Neutral/Verdant Protector.md",
+    "Items/Verdant Heart.md",
+    "Monsters/Plants/Vine Blight.md",
+    "Monsters/Plants/Twig Blight.md",
+    "NPCs/Neutral/Fog Eye.md",
+    "Monsters/Aberrations/Spectator.md",
+    "Monsters/Plants/Mutated Needle Blight.md",
+    "Monsters/Plants/Needle Blight.md",
+    "Monsters/Undeads/Shadow.md",
     "Social Encounters/Wandering Trader.md",
     "Social Encounters/The Unbreakable Dimensional Door.md",
     "Social Encounters",
-    "Locations/Druid Sanctuary.md",
-    "Rules.md",
-    "Monsters/Plants/Vine Blight.md",
     "Monsters/Elementals/Young Mud Mephit.md",
-    "Monsters/Undeads/Shadow.md",
     "Misc/Campaign.md",
     "Monsters/Undeads/Ghost.md",
     "Monsters/Undeads/Ghoul.md",
@@ -258,17 +269,6 @@
     "Monsters/Undeads/Zombies/Zombie Duergar.md",
     "Monsters/Undeads/Zombies/Zombie Commander.md",
     "Monsters/Undeads/Zombies/Zombie Duergar Brute.md",
-    "Monsters/Plants/Mutated Needle Blight.md",
-    "Monsters/Undeads/Zombies/Zombie.md",
-    "Monsters/Undeads/Zombies/Ash Zombie Commander.md",
-    "Monsters/Undeads/Zombies/Ash Zombie.md",
-    "Monsters/Plants/Needle Blight.md",
-    "Monsters/Plants/Twig Blight.md",
-    "Monsters/Plants/Shambling Mound.md",
-    "Misc/Random Shite.md",
-    "Misc/Long Rest Checklist.md",
-    "NPCs/Neutral/Verdant Protector.md",
-    "NPCs/Neutral/Fog Eye.md",
     "Items/Consumable",
     "Images/Pasted image 20261105163718.png",
     "Books/Phandelver and Below The Shattered Obelisk.pdf",
