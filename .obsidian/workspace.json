@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Wave Echo Cave/Wave Echo Cave.md",
+                "file": "Items/Vial of Boiling Blood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wave Echo Cave"
-            }
-          },
-          {
-            "id": "c36523050ef8f23c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Cloak of Protection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cloak of Protection"
+              "title": "Vial of Boiling Blood"
             }
           }
         ]
@@ -225,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.1666259765625
+    "width": 349.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,11 +226,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13f9c8b9bc2a863a",
+  "active": "bf2eefbf1c9bceab",
   "lastOpenFiles": [
-    "Items/Cloak of Protection.md",
-    "Untitled.md",
+    "Items/Wand of Magic Missiles.md",
     "Locations/Wave Echo Cave/Wave Echo Cave.md",
+    "Monsters/Beasts/Giant Constrictor Snake.md",
+    "Monsters/Plants/Violet Fungus.md",
+    "Items/Cloak of Protection.md",
+    "Monsters/Undeads/Ghoul.md",
+    "Monsters/Undeads/Zombies/Ogre Zombie.md",
+    "Monsters/Beasts/Stirge.md",
+    "Untitled.md",
     "Locations/Druid Sanctuary.md",
     "Monsters/Oozes/Ochre Jelly.md",
     "Rules.md",
@@ -263,12 +255,6 @@
     "Monsters/Elementals/Young Mud Mephit.md",
     "Misc/Campaign.md",
     "Monsters/Undeads/Ghost.md",
-    "Monsters/Undeads/Ghoul.md",
-    "Monsters/Undeads/Skeletons/Minotaur Skeleton.md",
-    "Monsters/Undeads/Skeletons/Skeleton.md",
-    "Monsters/Undeads/Zombies/Zombie Duergar.md",
-    "Monsters/Undeads/Zombies/Zombie Commander.md",
-    "Monsters/Undeads/Zombies/Zombie Duergar Brute.md",
     "Items/Consumable",
     "Images/Pasted image 20261105163718.png",
     "Books/Phandelver and Below The Shattered Obelisk.pdf",
