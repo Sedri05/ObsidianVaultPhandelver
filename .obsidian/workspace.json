@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Vial of Boiling Blood.md",
+                "file": "NPCs/Neutral/Fog Eye.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Vial of Boiling Blood"
+              "title": "Fog Eye"
             }
           }
         ]
@@ -83,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 329.5
   },
   "right": {
     "id": "c4df788403b25972",
@@ -228,33 +238,34 @@
   },
   "active": "bf2eefbf1c9bceab",
   "lastOpenFiles": [
-    "Items/Wand of Magic Missiles.md",
     "Locations/Wave Echo Cave/Wave Echo Cave.md",
-    "Monsters/Beasts/Giant Constrictor Snake.md",
-    "Monsters/Plants/Violet Fungus.md",
-    "Items/Cloak of Protection.md",
-    "Monsters/Undeads/Ghoul.md",
+    "NPCs/Evil/Mormkesh the Wraith.md",
+    "Monsters/Undeads/Wraith.md",
+    "NPCs/Evil/Untitled",
+    "Misc/Ranger.md",
+    "Monsters/Beasts/Ancient Giant Constrictor Snake.md",
+    "Monsters/Undeads/Zombies/Zombie Duergar.md",
+    "Monsters/Undeads/Flameskull.md",
     "Monsters/Undeads/Zombies/Ogre Zombie.md",
-    "Monsters/Beasts/Stirge.md",
-    "Untitled.md",
-    "Locations/Druid Sanctuary.md",
+    "Monsters/Undeads/Zombies/Zombie Duergar Brute.md",
+    "Monsters/Undeads/Ghoul.md",
+    "Monsters/Humanoids/Goblins/Bugbear Chief.md",
+    "Templates/Battlefield Action Erruption.md",
+    "Templates/Battlefield Action Cleave.md",
+    "Monsters/Humanoids/Goblins/Bugbear.md",
+    "Monsters/Humanoids/Goblins/Hobgoblin.md",
     "Monsters/Oozes/Ochre Jelly.md",
-    "Rules.md",
+    "Templates/Battlefield Action Ray.md",
+    "Templates/Battlefield Action Summon.md",
     "NPCs/Neutral/Verdant Protector.md",
-    "Items/Verdant Heart.md",
-    "Monsters/Plants/Vine Blight.md",
-    "Monsters/Plants/Twig Blight.md",
-    "NPCs/Neutral/Fog Eye.md",
-    "Monsters/Aberrations/Spectator.md",
-    "Monsters/Plants/Mutated Needle Blight.md",
-    "Monsters/Plants/Needle Blight.md",
-    "Monsters/Undeads/Shadow.md",
-    "Social Encounters/Wandering Trader.md",
-    "Social Encounters/The Unbreakable Dimensional Door.md",
+    "Templates/Battlefield Actions Main.md",
+    "NPCs/Neutral/Droop.md",
+    "Monsters/Monstrosities/Mimic.md",
+    "Locations/Druid Sanctuary.md",
+    "Monsters/Beasts/Giant Constrictor Snake.md",
+    "Items/Wand of Magic Missiles.md",
+    "Items/Vial of Boiling Blood.md",
     "Social Encounters",
-    "Monsters/Elementals/Young Mud Mephit.md",
-    "Misc/Campaign.md",
-    "Monsters/Undeads/Ghost.md",
     "Items/Consumable",
     "Images/Pasted image 20261105163718.png",
     "Books/Phandelver and Below The Shattered Obelisk.pdf",
@@ -264,7 +275,6 @@
     "Monsters/Plants",
     "Monsters/Oozes",
     "Monsters/Monstrosities",
-    "Monsters/Giants",
     "Images/Pasted image 20261026035814.png",
     "Images/Pasted image 20261003154712.png",
     "Untitled.canvas",

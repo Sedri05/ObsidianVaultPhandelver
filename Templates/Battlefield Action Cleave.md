@@ -1,0 +1,2 @@
+  - name: "Cleave"  
+    desc: "The _ winds up a sweeping attack. At the beginning of its next turn, the _ can replace one of its attacks with a sweeping strike targeting all spaces 5ft. in front of it. Each creature in that area must make a DC_ Dexterity saving throw, taking 1 (3d10) slashing damage on a failed save, or half as much damage on a successful one."

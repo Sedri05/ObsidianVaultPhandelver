@@ -1,0 +1,2 @@
+  - name: "Eruption"  
+    desc: "The _ stomps the ground, causing the earth to tremble beneath a point it can see within 60 feet of itself. At the beginning of its next turn, the ground erupts in a 10-foot-radius, 20-foot-high cylinder centered on that point. Each creature in that area must make a DC_ Dexterity saving throw, taking 1 (3d10) bludgeoning damage on a failed save, or half as much damage on a successful one."

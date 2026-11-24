@@ -1,0 +1,1 @@
+mythic_description: "The _ can forgo one of its attacks to initiate a battlefield action. A battlefield action takes one or more turns to resolve."

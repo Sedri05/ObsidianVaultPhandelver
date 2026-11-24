@@ -1,0 +1,2 @@
+  - name: "Summon"
+    desc: "The _ raises its hands, creating a summoning circle at an unoccupied point it can see within 60 feet of itself. At the beginning of its next turn, a _ appears in the circle if the space is unoccupied."

@@ -121,11 +121,11 @@ A passage leads south from this area, and a set of steps climbs to the east. A s
 - Pool is 20ft. deep at the middle.
 - Dead wizard 10ft. from shore, 10ft. deep.
 ## Enemies
-- 1 [[Giant Constrictor Snake]]
+- 1 [[Ancient Giant Constrictor Snake]].
 ## Treasure
 On the wizard:
 - 3 Jeweled gold rings, 150gp each.
-- 1 Wand of magic missiles.
+- [[Wand of Magic Missiles]].
 # W11 North Quarters
 ```
 Old stone bunks line the walls of these quarters, which are lit and heated by a glowing iron brazier in the middle of the room. Six bugbears, including one who is larger than the others, lounge in the room, grumbling about their hunger.
@@ -134,12 +134,25 @@ If the party enters from the west, add:
 ```
 Across the room is another door, this one blocked by a barricade made from the remains of a wooden table.
 ```
+## Features
+- The eastern door is barricaded from inside the room, **DC20 Athletics** to open.
+- A character who listens at either door and succeeds on a **DC10 Perception** check hears gruff voices speaking Goblin and talking about how hungry they are.
+## Enemies
+- 4 [[Bugbear]]
+- [[Bugbear Chief]]
+## Treasure
+Bugbear chief has:
+- 14gp.
+- Potion of healing.
 # W12 Smelter Cavern
 ```
 A blast furnace and a mechanical bellows powered by a waterwheel dominate this large chamber. The furnace is cold and dark, but heaps of coal are piled nearby, along with carts full of unrefined ore. The waterwheel sits in a ten-foot-wide channel cut into the floor of the room, but the channel is dry. Passages exit to the west, south, and east. The empty channel exits to the north and east.
 
 More than a dozen withered corpses lie scattered around the room—individuals still wearing remnants of armor. Floating above them is a skull engulfed in green flame.
 ```
+## Enemies
+- 4 [[Zombie Duergar]]
+- [[Flameskull]]
 # W13 Starry Cavern
 ```
 Glittering minerals in the ceiling of this large cavern catch any light and reflect it back to create the impression of a starry night sky. Dozens of skeletons—many crushed under fallen debris—are scattered across the floor.
@@ -152,12 +165,17 @@ The cavern is divided by an escarpment, into which a flight of stairs has been c
 ```
 Dust, ash, walls blackened by fire, and heaps of debris beneath the sagging ceiling show that this room was damaged by a destructive blast. The furnishings—tables, chairs, bookshelves, beds—are charred or splintered. A scorched iron chest stands near the foot of one of the beds. The adjacent closet on the south wall is full of rubble.
 ```
+## Features
+- Door is stuck, requiring **DC15 Athletics** to open.
+## Enemies
+- [[Mormkesh the Wraith]]
 # W15 Forge of Spells
 ```
 This large workshop was badly damaged by the ancient spell battle that laid waste to the mine. Worktables taking up two corners of the room are scorched, and the plaster has burned off the masonry walls. In the middle of the room, a stone pedestal holds a small brazier in which an eerie green flame dances and crackles. The brazier and its pedestal appear to have been untouched by the forces that destroyed this area.
 
 Behind the brazier of green flames floats a spherical creature measuring roughly four feet in diameter. Four eyestalks protrude from its central mass, two on each side. In the center of the body is a large eye that stares at you. It greets you in a raspy voice you hear only in your head.
 ```
+
 # W16 Booming Cavern
 ```
 A narrow ledge overlooks a large cavern that houses a surging, seething body of water. The rhythmic booming heard throughout the mines is louder here. At regular intervals, a fresh surge of water funnels into this chamber and slams against the wall just below the ledge. The echo suggests that this cave might be one arm of a much larger cavern to the northeast.

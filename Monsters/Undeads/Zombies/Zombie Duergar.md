@@ -31,9 +31,4 @@ actions:
     desc: "Melee Weapon Attack: +5 to hit, reach 5ft., one target. Hit 1 (1d8+3) piercing damage, or 1 (2d8+3) piercing damage while enlarged."
   - name: Javelin
     desc: "Melee or Ranged Weapon Attack: +5 to hit, reach 5ft. or range 30/120ft., one target. Hit 1 (1d6 + 3) piercing damage or 1 (2d6 + 3) piercing damage while enlarged."
-bonus_actions:
-  - name: 
-    desc: 
-  - name: 
-    desc: 
 ```

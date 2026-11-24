@@ -1,0 +1,2 @@
+  - name: "Ray"
+    desc: "The _ charges up an attack. Until the beginning of its next turn, whenever a creature deals damage to it, the _ turns to face that creature. At the beginning of its next turn, the _ can replace one of its attacks with a $description$ in a line that is 5 feet wide and 60 feet long. Each creature in that line must make a DC\_ Dexterity saving throw, taking 1 (3d10) piercing damage on a failed save, or half as much damage on a successful one."
