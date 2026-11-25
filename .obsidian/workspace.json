@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Neutral/Fog Eye.md",
+                "file": "Rules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fog Eye"
+              "title": "Rules"
             }
           }
         ]
@@ -239,6 +239,8 @@
   "active": "bf2eefbf1c9bceab",
   "lastOpenFiles": [
     "Locations/Wave Echo Cave/Wave Echo Cave.md",
+    "Untitled.md",
+    "NPCs/Neutral/Fog Eye.md",
     "NPCs/Evil/Mormkesh the Wraith.md",
     "Monsters/Undeads/Wraith.md",
     "NPCs/Evil/Untitled",
@@ -263,8 +265,6 @@
     "Monsters/Monstrosities/Mimic.md",
     "Locations/Druid Sanctuary.md",
     "Monsters/Beasts/Giant Constrictor Snake.md",
-    "Items/Wand of Magic Missiles.md",
-    "Items/Vial of Boiling Blood.md",
     "Social Encounters",
     "Items/Consumable",
     "Images/Pasted image 20261105163718.png",

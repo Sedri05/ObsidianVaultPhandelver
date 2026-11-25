@@ -175,7 +175,14 @@ This large workshop was badly damaged by the ancient spell battle that laid wast
 
 Behind the brazier of green flames floats a spherical creature measuring roughly four feet in diameter. Four eyestalks protrude from its central mass, two on each side. In the center of the body is a large eye that stares at you. It greets you in a raspy voice you hear only in your head.
 ```
-
+## Features
+- Door is stuck, requiring **DC15 Athletics** to open.
+- Guarded by a spectator that speaks common.
+- The wraith in W15 wants to eliminate the spectator, but so far, the creature has easily handled the assaults of Mormesk's zombies and ghouls while seeing nothing strange about Undead roaming the mine. With a successful **DC15 Deception** check, a character can convince the spectator that one or more party members are wizards or dwarves who work for the owners of Wave Echo Cave, sent to terminate the spectator's employment (thereby releasing it from its obligations). If the deception succeeds, the spectator disappears and returns to its home dimension.
+## Brazier of Green Flame
+- **DC15 Arcana** to identify it as the source of magic in this cave.
+## Enemies
+- [[Spectator]]
 # W16 Booming Cavern
 ```
 A narrow ledge overlooks a large cavern that houses a surging, seething body of water. The rhythmic booming heard throughout the mines is louder here. At regular intervals, a fresh surge of water funnels into this chamber and slams against the wall just below the ledge. The echo suggests that this cave might be one arm of a much larger cavern to the northeast.
